@@ -1,0 +1,19 @@
+.dashboard {
+    &-text {
+      font-size: 30px;
+      line-height: 46px;
+      color: red;
+      text-align: center;
+    }
+  }
+  .dashboard-content {
+    background-color: #e3e3e3;
+    min-height: 100vh;
+    margin-top: -25px;
+    padding-top: 25px;
+  }
+  .content-placeholer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

@@ -1,0 +1,20 @@
+@import './variables.scss';
+// 登录背景色
+html,body{
+    font-weight: $font-weight;
+}
+.login-container {
+    background-color: $--color-white;
+}
+.body,.main,.sider{
+    background-color: $--color-white;
+}
+
+// 修改elment 自带样式
+.el-header,.el-main{
+    padding: 0;
+}
+// 修改弹出框
+.el-popper[x-placement^=bottom] {
+    margin-top: 0;
+}

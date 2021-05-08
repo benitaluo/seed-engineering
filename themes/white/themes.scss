@@ -1,0 +1,42 @@
+@import './variables.scss';
+// 登录背景色
+html,body{
+  font-size: 16px;
+  font-weight: 500;
+}
+.login-container {
+    background-color: $--color-white;
+}
+.body,.main,.sider{
+    background-color: $--color-white;
+}
+
+// 修改elment 自带样式
+.el-header,.el-main{
+    padding: 0;
+}
+.el-button--primary.is-plain{
+    background: #fff;
+}
+.el-notification__content{
+  margin: 2px 0 0
+}
+.el-table{
+  font-size: 16px;
+}
+
+.el-table td{
+    padding: 10px 0;
+}
+
+.notice-popper {
+  padding: 0 !important;
+}
+
+.clear-padding {
+  padding: 0 !important;
+}
+
+a{
+  color: #222;
+}
