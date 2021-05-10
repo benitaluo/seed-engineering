@@ -19,18 +19,6 @@ violet为vue种子工程开发代号，基于Vue + Typescript + ElementUI技术�
 * [√] mocha: 5.2.4         - 单元测试框架     
 * [√] chai: 4.1.2          - 单元测试断言库  
 
-<!-- ### 1.2 内部提供组件：  
-  产品提供的基础组件库（可供产品内、其他产品或项目使用）  
-  源码地址： `http://bitbucket.gjsy.gsafety.com/projects/COMMON`    
-  仓库地址：`http://172.18.24.36:7002`  
-* [√] @gsafety/cad-gutil：2            - 基于项目特性封装的基础库：utilhelper、stringformat、sessionstorage、localstorage      
-`http://172.18.24.36:7002/package/@gsafety/cad-gutil`
-* [√] @gsafety/rx-eventbus：2          - 基于rx.js subject特性封装的事件发布订阅组件    
-`http://172.18.24.36:7002/package/@gsafety/rx-eventbus`  
-* [√] @gsafety/vue-httpclient：2       - 基于axios封装的http请求组件     
-`http://172.18.24.36:7002/package/@gsafety/vue-httpclient` 
-* [√] @gsafety/cad-glog：2             - 基于jsnlog封装的日志组件，支持console/send electron-main/remote url   
-`http://172.18.24.36:7002/package/@gsafety/cad-glog`     -->
 
 
 ## 2、使用规范文档  

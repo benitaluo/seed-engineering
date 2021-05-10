@@ -100,7 +100,7 @@ export const constantRouterMap = [
         component: Props
       }
     ]
-  },
+  }
   { path: '*', redirect: '/404', hidden: true }
 ];
 

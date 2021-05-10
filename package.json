@@ -30,6 +30,7 @@
     "rxjs": "^6.3.3",
     "rxjs-compat": "^6.3.3",
     "standard-error": "^1.1.0",
+    "superagent": "^6.1.0",
     "ts-md5": "^1.2.4",
     "vue": "^2.5.17",
     "vue-class-component": "^6.0.0",
