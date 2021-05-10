@@ -1,5 +1,6 @@
 import { expect } from 'chai';
 import mochaDemoService from '@/api/mocha-demo-service';
+// tslint:disable-next-line:no-var-requires
 const request = require('superagent');
 
 describe('TableService', () => {
